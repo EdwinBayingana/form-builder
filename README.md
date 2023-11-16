@@ -8,8 +8,7 @@ We are going to build this with:
 - Prisma as ORM
 
 Features: 
-- Responsive
-- Create forms with a stunning drag and drop designer
+- Create forms with a drag and drop feature
 - Layout fields: Title, SubTitle, Spacer, Separator, Paragraph
 - Form fields: Text, Number, Select, Date, Checkbox, Textarea
 - It is easy to add and customize new fields
